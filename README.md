@@ -1,1 +1,1 @@
-ReactAndRedux
+React and Redux
